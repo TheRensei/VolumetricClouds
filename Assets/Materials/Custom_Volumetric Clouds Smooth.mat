@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Custom_Volumetric Clouds Smooth
+  m_Shader: {fileID: 4800000, guid: f3d78fcb46e2e1b4eb6fd6be96fcd0ce, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MaskTex:
+        m_Texture: {fileID: 2800000, guid: 251bf61a877a6d04a99e6dfdad93106d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: 1f9790435f65f524495868157f9bf43f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture1:
+        m_Texture: {fileID: 2800000, guid: 1f9790435f65f524495868157f9bf43f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Blend: 0.5
+    - _CloudSoftness: 3
+    - _CurvatureStrength: 0.0003
+    - _CutOff: 0.034
+    - _CutOut: 0.27
+    - _Cutoff: 0.5
+    - _Cutout: 0.01
+    - _FlatThreshold: 1092.04
+    - _SSSPower: 46.7
+    - _SSSStrength: 1.78
+    - _ScrollSpeed: 10
+    - _Sharpness: 0.229
+    - _TaperPower: 2.41
+    - _TexScale: 0.001
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
