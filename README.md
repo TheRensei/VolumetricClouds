@@ -23,10 +23,14 @@ Features:
  - *No Shadows*
 
 ![VC1](https://github.com/TheRensei/VolumetricClouds/blob/master/ScreenShots/VC1.gif)
+
 ![VC3](https://github.com/TheRensei/VolumetricClouds/blob/master/ScreenShots/VC3.gif)
+
 ![VC2](https://github.com/TheRensei/VolumetricClouds/blob/master/ScreenShots/VC2.gif)
-![VC2](https://github.com/TheRensei/VolumetricClouds/blob/master/ScreenShots/VC4.gif)
-![VC2](https://github.com/TheRensei/VolumetricClouds/blob/master/Capture.PNG)
+
+![VC4](https://github.com/TheRensei/VolumetricClouds/blob/master/ScreenShots/VC4.gif)
+
+![ ](https://github.com/TheRensei/VolumetricClouds/blob/master/ScreenShots/Capture.PNG)
 
 
 References:
