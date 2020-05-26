@@ -3,7 +3,7 @@ Volumetric clouds shader for Unity.
 
 (This project is in Unity 2019.1.8f1)
 
-*I started learning shaders a month before uploading this so this shader is by no means perfect. Code is mostl commented, but everything *should* be clear enough.*
+*I started learning shaders a month before uploading this so this shader is by no means perfect. Code is mostly commented, but everything *should* be clear enough.*
 
 Features:
 
